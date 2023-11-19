@@ -20,7 +20,7 @@ In the future, I aim to delve deeper into the field of machine learning for Data
 
 ## 📬 Get in Touch
 
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/stefanus-bernard-melkisedek/)
+- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/stefanus-bernard-melkisedek/)
 - Email: stefanussipahutar@gmail.com
 
 Feel free to contact me with any questions, or just to say hi. I'm always open to new ideas and collaborations.
