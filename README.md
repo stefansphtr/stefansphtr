@@ -26,6 +26,10 @@ In the future, I aim to delve deeper into the field of machine learning for Data
 
 ## 📬 Get in Touch
 
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
+</div>
+
 - LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/stefanus-bernard-melkisedek/)
 - Email: stefanussipahutar@gmail.com
 
