@@ -1,4 +1,6 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+</div>
 
 # Hello, there! 👋
 
@@ -11,6 +13,8 @@ During my journey as a data analyst, I've worked on several projects. One of my 
 ## 💻 Technical Skills
 
 I use SQL and Python for data analysis, from data wrangling, exploratory data analysis, and explanatory data analysis to data visualization. I am continuously learning and improving my skills to stay updated with the latest tools and techniques in the field.
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
 ## 🏆 Certifications
 
