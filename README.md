@@ -57,7 +57,7 @@ I use SQL and Python for data analysis, from data wrangling, exploratory data an
 
 [![Data Analytics Projects](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Data-Analytics-Brazilian-Ecommerce&theme=radical)](https://github.com/stefansphtr/Data-Analytics-Brazilian-Ecommerce)
 [![Exercise Projects](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Exercise-Project-Data-Analysis&theme=radical)](https://github.com/stefansphtr/Exercise-Project-Data-Analysis)
-[![Frontend KM x RevoU](https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=BE-2-Medan-2&theme=radical)](https://github.com/Kampus-Merdeka-Software-Engineering/BE-2-Medan-2)
+[![Frontend KM x RevoU](https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=FE-2-Medan-2&theme=radical)](https://github.com/Kampus-Merdeka-Software-Engineering/BE-2-Medan-2)
 [![Backend KM x RevoU](https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=BE-2-Medan-2&theme=radical)](https://github.com/Kampus-Merdeka-Software-Engineering/BE-2-Medan-2)
 [![Hard Assignment](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Hard-Assignment-Week-5&theme=radical)](https://github.com/stefansphtr/Hard-Assignment-Week-5)
 
