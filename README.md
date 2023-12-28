@@ -13,7 +13,6 @@
         </samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Stefanus+Bernard+Melkisedek">「 Google Me 」</a>
@@ -24,13 +23,13 @@
   </samp>
 </p>
 
-# Hello, there! 👋
+# Hello there! 👋
 
-My name is Stefanus Bernard Melkisedek, an undergraduate student majoring in Management and aspiring Data Analyst and Data Scientist. I am passionate about deriving insightful recommendations from datasets to drive business decisions and strategy.
+My name is Stefanus Bernard Melkisedek. I am an undergraduate student majoring in management and an aspiring data analyst and data scientist. I am passionate about deriving insightful recommendations from datasets to drive business decisions and strategy.
 
 ## 📊 Data Analysis Projects
 
-During my journey as a data analyst, I've worked on several projects. One of my notable projects is a comprehensive analysis of the Netflix Dataset, which was selected as the best project with a total score of 95 at the RevoU Tech Academy.
+During my journey as a data analyst, I've worked on several projects. One of my notable projects is a comprehensive analysis of the Netflix Dataset, which was selected as the best project at the RevoU Tech Academy with a total score of 95.
 
 ## 💻 Technical Skills
 
@@ -40,18 +39,11 @@ I use SQL and Python for data analysis, from data wrangling, exploratory data an
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=stefansphtr&show_icons=true&theme=radical&line_height=27" alt="Stefanus's GitHub stats" />
-        </a>
-    </div>
-    <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefansphtr&theme=radical&layout=compact" alt="Stefanus's most used languages" />
-        </a>
-    </div>
-</div>
+<a> 
+        <a href="https://github.com/stefansphtr"><img alt="Stefan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=stefansphtr&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/stefansphtr"><img alt="Stefan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=stefansphtr&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <br/>
+</a>
 
 ## 📌 Pinned Repositories
 
@@ -60,7 +52,6 @@ I use SQL and Python for data analysis, from data wrangling, exploratory data an
 [![Frontend KM x RevoU](https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=FE-2-Medan-2&theme=radical)](https://github.com/Kampus-Merdeka-Software-Engineering/BE-2-Medan-2)
 [![Backend KM x RevoU](https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=BE-2-Medan-2&theme=radical)](https://github.com/Kampus-Merdeka-Software-Engineering/BE-2-Medan-2)
 [![Hard Assignment](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Hard-Assignment-Week-5&theme=radical)](https://github.com/stefansphtr/Hard-Assignment-Week-5)
-
 
 <p align="left">
         <a href="https://github.com/stefansphtr?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -82,12 +73,6 @@ I use SQL and Python for data analysis, from data wrangling, exploratory data an
     </a>
 </p>
 
-<a> 
-        <a href="https://github.com/stefansphtr"><img alt="Stefan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=stefansphtr&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/stefansphtr"><img alt="Stefan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=stefansphtr&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-    <br/>
-</a>
-
 ![Stefan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=stefansphtr&custom_title=Stefan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ## 📬 Get in Touch
@@ -95,7 +80,7 @@ I use SQL and Python for data analysis, from data wrangling, exploratory data an
 - LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/stefanus-bernard-melkisedek/)
 - Email: stefanussipahutar@gmail.com
 
-Feel free to contact me with any questions, or just to say hi. I'm always open to new ideas and collaborations.
+Feel free to contact me with any questions or to say hi. I'm always open to new ideas and collaborations.
 
 ## 🎈 Fun Fact
 
