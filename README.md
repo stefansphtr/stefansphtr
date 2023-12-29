@@ -52,6 +52,7 @@ I use SQL and Python for data analysis, from data wrangling, exploratory data an
 [![Frontend KM x RevoU](https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=FE-2-Medan-2&theme=radical)](https://github.com/Kampus-Merdeka-Software-Engineering/BE-2-Medan-2)
 [![Backend KM x RevoU](https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=BE-2-Medan-2&theme=radical)](https://github.com/Kampus-Merdeka-Software-Engineering/BE-2-Medan-2)
 [![Hard Assignment](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Hard-Assignment-Week-5&theme=radical)](https://github.com/stefansphtr/Hard-Assignment-Week-5)
+[![Machine Learning: Image Classification](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=FP-ML-Image-Classifier&theme=radical)](https://github.com/stefansphtr/FP-ML-Image-Classifier)
 
 <p align="left">
         <a href="https://github.com/stefansphtr?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
