@@ -73,9 +73,7 @@ My name is Stefanus Bernard Melkisedek. I am an undergraduate student majoring i
 <br/>
 
 <p align="center">
-    <a href="https://github.com/stefansphtr">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=stefansphtr&theme=radical&border=7F3FBF&background=0D1117" alt="Stefan's GitHub streak"/>
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-1vtd.vercel.app?user=stefansphtr&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
