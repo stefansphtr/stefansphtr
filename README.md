@@ -1,23 +1,11 @@
-
+<!-- GitHub Visitor -->
 <a href="https://komarev.com/ghpvc/?username=stefansphtr">
     <img align="right" src="https://komarev.com/ghpvc/?username=stefansphtr&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<!--  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/stefansphtr">Stefanus Bernard Melkisedek</a></b>
-        </samp>
-</h3>
-
+<!-- GitHub Banner -->
 <p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Stefanus+Bernard+Melkisedek">「 Google Me 」</a>
-    <br>
-    「 I am a data enthusiast from <b>Indonesia</b> 」
-    <br>
-    <br>
-  </samp>
+  <img src="./github-banner.png" alt="Stefan's GitHub Banner" width=1000/>
 </p>
 
 # Hello there! 👋
