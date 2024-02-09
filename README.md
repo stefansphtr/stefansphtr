@@ -5,7 +5,7 @@
 
 <!-- GitHub Banner -->
 <p align="center"> 
-  <img src="./github-banner.png" alt="Stefan's GitHub Banner" width=1000/>
+  <img src="./src/gif-github-banner.gif" alt="Stefan's GitHub Banner" width=1000/>
 </p>
 
 # Hello there! 👋
