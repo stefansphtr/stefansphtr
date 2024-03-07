@@ -24,16 +24,16 @@ My name is Stefanus Bernard Melkisedek. I am an undergraduate student majoring i
 
 <p align="left"> 
 <a href="https://discord.com/users/stefansphtr" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+    <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 <a href="https://www.github.com/stefansphtr" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    <img src="https://skillicons.dev/icons?i=github" />
 </a>
 <a href="https://www.linkedin.com/in/stefanus-bernard-melkisedek" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://www.x.com/stefansphtr" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+    <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 </p>
 
