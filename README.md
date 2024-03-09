@@ -47,7 +47,8 @@ My name is Stefanus Bernard Melkisedek. I am an undergraduate student majoring i
 
 ## 📌 Pinned Repositories
 
-[![Data Analytics Projects](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Data-Analytics-Brazilian-Ecommerce&theme=radical)](https://github.com/stefansphtr/Data-Analytics-Brazilian-Ecommerce)
+[![Python Data Analytics Projects](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Data-Analytics-Brazilian-Ecommerce&theme=radical)](https://github.com/stefansphtr/Data-Analytics-Brazilian-Ecommerce)
+[![R Data Analytics Projects](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=R-Analysis-of-the-2022-Fortune-1000-Dataset&theme=radical)](https://github.com/stefansphtr/R-Analysis-of-the-2022-Fortune-1000-Dataset)
 [![Exercise Projects](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Exercise-Project-Data-Analysis&theme=radical)](https://github.com/stefansphtr/Exercise-Project-Data-Analysis)
 [![Frontend KM x RevoU](https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=FE-2-Medan-2&theme=radical)](https://github.com/Kampus-Merdeka-Software-Engineering/BE-2-Medan-2)
 [![Backend KM x RevoU](https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=BE-2-Medan-2&theme=radical)](https://github.com/Kampus-Merdeka-Software-Engineering/BE-2-Medan-2)
