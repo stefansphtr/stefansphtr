@@ -39,42 +39,64 @@ My name is Stefanus Bernard Melkisedek. I am an undergraduate student majoring i
 
 ## 📈 GitHub Stats
 
-<a> 
-        <a href="https://github.com/stefansphtr"><img alt="Stefan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=stefansphtr&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/stefansphtr"><img alt="Stefan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=stefansphtr&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-    <br/>
-</a>
+<div align="center">
+    <a href="https://github.com/stefansphtr">
+        <img alt="Stefan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=stefansphtr&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
+    </a>
+    <a href="https://github.com/stefansphtr">
+        <img alt="Stefan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=stefansphtr&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
+    </a>
+</div>
 
 ## 📌 Pinned Repositories
 
-[![Python Data Analytics Projects](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Data-Analytics-Brazilian-Ecommerce&theme=radical)](https://github.com/stefansphtr/Data-Analytics-Brazilian-Ecommerce)
-[![R Data Analytics Projects](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=R-Analysis-of-the-2022-Fortune-1000-Dataset&theme=radical)](https://github.com/stefansphtr/R-Analysis-of-the-2022-Fortune-1000-Dataset)
-[![Machine Learning: Image Classification](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=FP-ML-Image-Classifier&theme=radical)](https://github.com/stefansphtr/FP-ML-Image-Classifier)
-[![Exercise Projects](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Exercise-Project-Data-Analysis&theme=radical)](https://github.com/stefansphtr/Exercise-Project-Data-Analysis)
-[![R for Data Analysis](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=R-for-Data-Analysis&theme=radical)](https://github.com/stefansphtr/R-for-Data-Analysis)
-[![Frontend KM x RevoU](https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=FE-2-Medan-2&theme=radical)](https://github.com/Kampus-Merdeka-Software-Engineering/BE-2-Medan-2)
-[![Backend KM x RevoU](https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=BE-2-Medan-2&theme=radical)](https://github.com/Kampus-Merdeka-Software-Engineering/BE-2-Medan-2)
-[![Hard Assignment](https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Hard-Assignment-Week-5&theme=radical)](https://github.com/stefansphtr/Hard-Assignment-Week-5)
+<div align="center">
+    <a href="https://github.com/stefansphtr/Data-Analytics-Brazilian-Ecommerce">
+        <img alt="Python Data Analytics Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Data-Analytics-Brazilian-Ecommerce&theme=radical" height="120px" width="400px"/>
+    </a>
+    <a href="https://github.com/stefansphtr/R-Analysis-of-the-2022-Fortune-1000-Dataset">
+        <img alt="R Data Analytics Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=R-Analysis-of-the-2022-Fortune-1000-Dataset&theme=radical" height="120px" width="400px"/>
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=FP-ML-Image-Classifier&theme=radical">
+        <img alt="Machine Learning: Image Classification" src="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=FP-ML-Image-Classifier&theme=radical" height="120px" width="400px"/>
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Exercise-Project-Data-Analysis&theme=radical">
+        <img alt="Exercise Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Exercise-Project-Data-Analysis&theme=radical" height="120px" width="400px"/>
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=R-for-Data-Analysis&theme=radical">
+        <img alt="R for Data Analysis" src="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=R-for-Data-Analysis&theme=radical" height="120px" width="400px"/>
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Hard-Assignment-Week-5&theme=radical">
+        <img alt="Hard Assignment" src="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Hard-Assignment-Week-5&theme=radical" height="120px" width="400px"/>
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=FE-2-Medan-2&theme=radical">
+        <img alt="Frontend KM x RevoU" src="https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=FE-2-Medan-2&theme=radical" height="120px" width="400px"/>
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=BE-2-Medan-2&theme=radical">
+        <img alt="Backend KM x RevoU" src="https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=BE-2-Medan-2&theme=radical" height="120px" width="400px"/>
+    </a>
+</div>
+
 
 <p align="left">
-        <a href="https://github.com/stefansphtr?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+        <a href="https://github.com/stefansphtr?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-141321?style=flat&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
 <hr/>
 <br/>
 
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-1vtd.vercel.app?user=stefansphtr&theme=radical" alt="GitHub Streak" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-    <a href="https://github.com/stefansphtr">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stefansphtr&theme=radical" alt="Stefan's GitHub Contribution"/>
-    </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=stefansphtr&theme=radical)](https://git.io/streak-stats)
 
 ![Stefan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=stefansphtr&custom_title=Stefan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+![Stefan's Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stefansphtr&theme=radical)
+
+</div>
+
+
 
 ## 📬 Get in Touch
 
@@ -86,4 +108,5 @@ Feel free to contact me with any questions or to say hi. I'm always open to new 
 ## 🎈 Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<!-- Footer Image -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
