@@ -32,7 +32,7 @@ My name is Stefanus Bernard Melkisedek. I am an undergraduate student majoring i
 <a href="https://www.linkedin.com/in/stefanus-bernard-melkisedek" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://www.x.com/stefansphtr" target="_blank" rel="noreferrer">
+<a href="https://twitter.com/Stefansphtr77" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 </p>
