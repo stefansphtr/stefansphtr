@@ -57,22 +57,22 @@ My name is Stefanus Bernard Melkisedek. I am an undergraduate student majoring i
     <a href="https://github.com/stefansphtr/R-Analysis-of-the-2022-Fortune-1000-Dataset">
         <img alt="R Data Analytics Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=R-Analysis-of-the-2022-Fortune-1000-Dataset&theme=radical" height="120px" width="400px"/>
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=FP-ML-Image-Classifier&theme=radical">
+    <a href="https://github.com/stefansphtr/FP-ML-Image-Classifier">
         <img alt="Machine Learning: Image Classification" src="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=FP-ML-Image-Classifier&theme=radical" height="120px" width="400px"/>
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Exercise-Project-Data-Analysis&theme=radical">
+    <a href="https://github.com/stefansphtr/Exercise-Project-Data-Analysis">
         <img alt="Exercise Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Exercise-Project-Data-Analysis&theme=radical" height="120px" width="400px"/>
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=R-for-Data-Analysis&theme=radical">
+    <a href="https://github.com/stefansphtr/R-for-Data-Analysis">
         <img alt="R for Data Analysis" src="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=R-for-Data-Analysis&theme=radical" height="120px" width="400px"/>
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Hard-Assignment-Week-5&theme=radical">
+    <a href="https://github.com/stefansphtr/Hard-Assignment-Week-5">
         <img alt="Hard Assignment" src="https://github-readme-stats.vercel.app/api/pin/?username=stefansphtr&repo=Hard-Assignment-Week-5&theme=radical" height="120px" width="400px"/>
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=FE-2-Medan-2&theme=radical">
+    <a href="https://github.com/Kampus-Merdeka-Software-Engineering/FE-2-Medan-2">
         <img alt="Frontend KM x RevoU" src="https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=FE-2-Medan-2&theme=radical" height="120px" width="400px"/>
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=BE-2-Medan-2&theme=radical">
+    <a href="https://github.com/Kampus-Merdeka-Software-Engineering/BE-2-Medan-2">
         <img alt="Backend KM x RevoU" src="https://github-readme-stats.vercel.app/api/pin/?username=Kampus-Merdeka-Software-Engineering&repo=BE-2-Medan-2&theme=radical" height="120px" width="400px"/>
     </a>
 </div>
